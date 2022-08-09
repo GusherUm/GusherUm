@@ -12,7 +12,6 @@
 <a href="https://stackoverflow.com/users/edit/18510760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="murugesh jlp" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_h_o_p_e_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_h_o_p_e_2004" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jlp2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jlp2004" height="30" width="40" /></a>
-<a href="https://discord.gg/Gusher_Um#2379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gusher_Um#2379" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
