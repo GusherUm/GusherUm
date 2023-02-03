@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Murugesh JLP</h1>
-<h3 align="center">Passionate about computer science; but still taking the time to completely switch from the world of physics from high school to CS now!</h3>
 
 - 🤝 I’m looking for help with **Publishing research papers in the domain of data science and AI&ML**
 
