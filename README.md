@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murugesh JLP</h1>
 
-- 🤝 I’m looking for help with **Publishing research papers in the domain of data science and AI&ML**
-
 - 📫 How to reach me **murugeshmadhav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
